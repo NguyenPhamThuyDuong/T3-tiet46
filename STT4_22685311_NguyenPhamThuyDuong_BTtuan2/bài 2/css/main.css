@@ -15,14 +15,14 @@ body{
 
 .header-text{
     margin: 20px;
-    color: #fdfdfd;
+    color: #ffffff;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .container > header > nav{
     display: flex;
     align-items: center;
-    background-color: #b1afab;
+    background-color: #a8a6a3;
 }
 
 .nav-opt{
@@ -32,7 +32,7 @@ body{
 .nav-opt > a{
     font-size: 20px;
     font-weight: 700;
-    color: #fdfdfd;
+    color: #ffffff;
     text-decoration: none;
 }
 
@@ -51,7 +51,7 @@ body{
 
 .opt-h3{
     font-size: 30px;
-    color: #e17a91;
+    color: #e7778f;
 }
 
 .opt-p{
@@ -69,7 +69,7 @@ body{
 }
 
 .option div:first-child{
-    border: 1px solid #b1afab;
+    border: 1px solid #a8a6a3;
     padding: 10px;
 }
 
@@ -85,22 +85,22 @@ aside{
 }
 
 aside{
-    border-left: 1px solid #b1afab;
+    border-left: 1px solid #a8a6a3;
 }
 
 
 .title-food-opt{
-    color: #e17a91;
+    color: #e7778f;
     margin: 10px;
     font-size: 40px;
 }
 
 .food-opt{
     font-size: 30px;
-    color: #e17a91;
+    color: #e7778f;
     padding: 30px 20px;
     margin: auto 20px;
-    border-bottom: 0.5px solid #b1afab;
+    border-bottom: 0.5px solid #a8a6a3;
 }
 
 .contact{
@@ -108,7 +108,7 @@ aside{
 }
 
 .title-contact{
-    color: #e17a91;
+    color: #e7778f;
     font-size: 40px;
     margin: 40px;
 }
@@ -119,7 +119,7 @@ aside{
 }
 
 footer{
-    background-color: #b1afab;
+    background-color: #a8a6a3;
     font-size: 20px;
     height: 40px;
     display: flex;

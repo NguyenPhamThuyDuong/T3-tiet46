@@ -35,7 +35,7 @@ body{
     justify-content: center;
     align-items: center;
     text-transform: uppercase;
-    background-color: #ec9696;
+    background-color: #e59393;
 }
 
 body > div > div > img{
@@ -44,8 +44,8 @@ body > div > div > img{
 }
 
 .title-h1{
-    background-color: #eb9696;
-    color: #a52a2a;
+    background-color: #f59d9d;
+    color: #aa2828;
     display: flex;
     justify-content: center;
 
@@ -64,7 +64,7 @@ body > a{
 
 #Starters + ul li:nth-child(3){
     text-transform: uppercase;
-    color: #afb50c;
+    color: #b1b714;
     font-weight: 1000;
 }
 
@@ -82,7 +82,7 @@ body > a{
 }
 
 #div-left div{
-    background-color: #ec9696;
+    background-color: #ee9292;
     min-height: 40px;
     border-radius: 20px;
     display: flex;
@@ -98,7 +98,7 @@ body > a{
     width: 100%;
     height: auto;
     border-radius: 50%;
-    box-shadow: 10px 20px 50px #ec9696;
+    box-shadow: 10px 20px 50px #f29595;
 }
 
 #div-center{
@@ -161,5 +161,5 @@ body > a{
 }
 
 .read-more{
-    color: #ee9d9d;
+    color: #f2a7a7;
 }
